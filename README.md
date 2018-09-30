@@ -13,3 +13,6 @@ Digital Clock C++
 */
 
 I have compiled the program and the executable can be found from the zip archive.However, you may need to install QtCreator and compile it yourself. If the previous is the case visit: https://www.techtimejourney.net/qtcreator-project-compiling-reference/ for further instructions.
+_______________________________________________________________-
+
+Original post is at: https://www.techtimejourney.net/digital-clock-v-3-c/
