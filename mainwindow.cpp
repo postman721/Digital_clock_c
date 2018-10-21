@@ -28,7 +28,7 @@ MainWindow::MainWindow(QWidget *parent) :
 void MainWindow::showTime(){
 
    QTime time = QTime::currentTime();
-   QString text = time.toString("hh: mm");
+   QString text = time.toString("hh : mm");
    ui->time->setText(text);
 }
 
