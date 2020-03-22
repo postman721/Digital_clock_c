@@ -1,11 +1,10 @@
 # Digital_clock_c-
 Digital Clock C++
 
-![clock](https://user-images.githubusercontent.com/29865797/46259005-424f6880-c4c2-11e8-8842-697b007ad2c2.jpg)
-
+![clock](https://user-images.githubusercontent.com/29865797/77247764-bc3a5b00-6c3c-11ea-9916-81f40ba29324.jpg)
 
 /*
-#Digital Clock v.3 Copyright (c) 2018 JJ Posti <techtimejourney.net>
+#Digital Clock v.4 Copyright (c) 2018 JJ Posti <techtimejourney.net>
 #Digital Clock comes with ABSOLUTELY NO WARRANTY;
 #for details see: http://www.gnu.org/copyleft/gpl.html.
 #This is free software, and you are welcome to redistribute it under
