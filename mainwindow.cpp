@@ -1,5 +1,5 @@
 /*
-#Digital Clock v.3 Copyright (c) 2018 JJ Posti <techtimejourney.net>
+#Digital Clock v.4 Copyright (c) 2018 JJ Posti <techtimejourney.net>
 #Digital Clock comes with ABSOLUTELY NO WARRANTY;
 #for details see: http://www.gnu.org/copyleft/gpl.html.
 #This is free software, and you are welcome to redistribute it under
