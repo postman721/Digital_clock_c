@@ -28,8 +28,11 @@ MainWindow::MainWindow(QWidget *parent) :
 void MainWindow::showTime(){
 
    QTime time = QTime::currentTime();
-   QString text = time.toString("hh : mm");
+   QString text = time.toString("hh:mm");
+   QString date = QDate::currentDate().toString();
    ui->time->setText(text);
+   ui->label->setText(date);
+
 }
 
 MainWindow::~MainWindow()
